@@ -1,0 +1,53 @@
+#mystyle{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(17, 17, 143);
+    position: absolute;
+    left:300px;
+}
+
+
+#mystylepro{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(104, 61, 6);
+    
+}
+
+#custom-select-first{
+    position: absolute;
+    top: 100px;
+    left:50px;
+   
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    
+    
+
+}
+#custom-select-second{
+    position: absolute;
+    top: 100px;
+    left:350px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+
+}
+#custom-select-third{
+    position: absolute;
+    top: 100px;
+    left:650px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    
+    
+
+}
+select, option {
+    width: 250px;
+    border-color: rgb(51, 31, 163);
+    background-color: rgb(243, 249, 252);
+    color:rgba(0, 0, 0, 0.4)
+    
+}
